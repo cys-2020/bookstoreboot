@@ -1,0 +1,12 @@
+.types_area,.incre_amount,.decre_amount{
+	display: none;
+}
+.amount{
+	background-color: aliceblue;
+}
+.type{
+	background-color: beige;
+}
+.selected{
+	background-color: chartreuse;
+}

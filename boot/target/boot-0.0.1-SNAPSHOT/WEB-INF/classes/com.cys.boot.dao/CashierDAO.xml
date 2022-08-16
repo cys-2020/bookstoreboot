@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cys.boot.dao.CashierDAO">
+	<sql id="allColumn">id,user_id,store_id,staged_money,finished_money</sql>
+	
+	<select id="getCashier"  parameterType="long" resultType="com.cys.boot.entity.Cashier">
+		select 
+			<include refid="allColumn"/>
+		from t_cashier where id=#{id}
+	</select>
+	<select id="getCashierByBothId"   resultType="com.cys.boot.entity.Cashier">
+		select 
+			<include refid="allColumn"/>
+		from t_cashier where user_id=#{userId} and store_id=#{storeId}
+	</select>
+	<select id="getCashierByStoreid"  parameterType="long" resultType="com.cys.boot.entity.Cashier">
+		select 
+			<include refid="allColumn"/>
+		from t_cashier where store_id=#{storeId}
+	</select>
+	<select id="getCashierByUserid"  parameterType="long" resultType="com.cys.boot.entity.Cashier">
+		select 
+			<include refid="allColumn"/>
+		from t_cashier where user_id=#{userId}
+	</select>
+	
+	<insert id="insertCashier" parameterType="com.cys.boot.entity.Cashier" 
+									useGeneratedKeys="true" keyProperty="id">
+		insert into t_cashier values(null,#{userId},#{storeId},#{stagedMoney},#{finishedMoney})
+	</insert>
+	
+	<update id="updateCashier" parameterType="com.cys.boot.entity.Cashier">
+		update t_cashier set staged_money=#{stagedMoney},
+			finished_money=#{finishedMoney} where id=#{id}
+	</update>
+	
+	<delete id="deleteCashier" parameterType="com.cys.boot.entity.Cashier">
+		delete from t_cashier where id=#{id}
+	</delete>
+</mapper>

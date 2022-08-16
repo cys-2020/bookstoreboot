@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+" http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!-- 
+	<properties resource="properties/jdbc.properties"/> -->
+	<settings>
+        <!-- 开启log4j来记录日志 
+        <setting name="logImpl" value="log4j"/>-->
+		<setting name="defaultStatementTimeout" value="25"/>
+		<setting name="mapUnderscoreToCamelCase" value="true"/>
+		<!-- 开启自定义（级联时fetchType=按需加载 -->
+		<setting name="lazyLoadingEnabled" value="true"  />
+		<setting name="aggressiveLazyLoading" value="false"/>
+		<setting name="lazyLoadTriggerMethods" value=""/>
+		<!-- 开启批量更新（sqlsession.flushStatements可提交前面已缓存的语句） -->
+		<setting name="defaultExecutorType" value="BATCH"/>
+		
+	</settings>
+
+	<typeAliases>
+		
+	</typeAliases>
+	<!-- 遇到需要bean中转换的类型时，
+			用自定义Handler进行类型转换
+				这里全局配置必须要注册handler-->
+	<typeHandlers>
+		<typeHandler handler="com.cys.boot.typeHandler.ArrayListTypeHandler" 
+			javaType="ArrayList" jdbcType="VARCHAR" />
+		<typeHandler handler="com.cys.boot.typeHandler.CouponEnumTypeHandler" 
+			javaType="com.cys.boot.typeNeedHandle.CouponEnum" jdbcType="TINYINT" />
+		<typeHandler handler="com.cys.boot.typeHandler.GoodSendTimeEnumTypeHandler" 
+			javaType="com.cys.boot.typeNeedHandle.GoodSendTimeEnum" jdbcType="TINYINT" />
+		<typeHandler handler="com.cys.boot.typeHandler.GoodShippingInsuranceEnumTypeHandler" 
+			javaType="com.cys.boot.typeNeedHandle.GoodShippingInsuranceEnum" jdbcType="TINYINT" />
+		<typeHandler handler="com.cys.boot.typeHandler.RefundOptionEnumTypeHandler" 
+			javaType="com.cys.boot.typeNeedHandle.RefundOptionEnum" jdbcType="TINYINT" />
+		<typeHandler handler="com.cys.boot.typeHandler.ShippingCompanyEnumTypeHandler" 
+			javaType="com.cys.boot.typeNeedHandle.ShippingCompanyEnum" jdbcType="TINYINT" />
+		<typeHandler handler="com.cys.boot.typeHandler.UserLvEnumTypeHandler" 
+			javaType="com.cys.boot.typeNeedHandle.UserLvEnum"  />
+		<typeHandler handler="com.cys.boot.typeHandler.StoreLvEnumTypeHandler" 
+			javaType="com.cys.boot.typeNeedHandle.StoreLvEnum" jdbcType="TINYINT" />
+		<typeHandler handler="com.cys.boot.typeHandler.UserAddressesHashMapTypeHandler" 
+			javaType="com.cys.boot.typeNeedHandle.UserAddressesHashMap" jdbcType="VARCHAR" />
+	</typeHandlers>
+	
+	<!--  
+	<environments default="mysql">
+		<environment id="mysql">
+			<transactionManager type="JDBC">
+				<property name="autoCommit" value="false"/>
+			</transactionManager>
+			<dataSource type="POOLED">
+				<property name="driver" value="com.mysql.cj.jdbc.Driver"/> 
+				<property name="url" value="jdbc:mysql://localhost:3306/mybatis"/>
+				<property name="username" value="root"/>
+				<property name="password" value="cys2022!"/>
+			</dataSource>
+		</environment>
+	</environments>
+	-->
+	<!-- 注册mapper-dao -->
+	<mappers>
+		<mapper resource="com.cys.boot.dao/UserDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/AddressDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/SellerDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/CustomerServiceStaffDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/CashierDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/ChatDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/ChatReceivedDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/ChatUtoSDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/ChatUrcvSDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/ChatStoUDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/ChatSrcvUDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/OrderformDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/DealEvidenceDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/RefundDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/ShoppingCartDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/ShoppingCartItemDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/GoodDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/GoodParamDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/GoodPostageAboutLvDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/StoreDAO.xml"/>
+		<mapper resource="com.cys.boot.dao/CouponDAO.xml"/>
+	</mappers>
+
+</configuration>

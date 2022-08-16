@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link type="text/css" rel="stylesheet" href="../css/commitorder.css" />
+	</head>
+	<body>
+		<section>
+			<div id="addressArea">
+				
+			</div>
+			<div id="addAddressArea">
+				<select name="provlevel" id="provlevel" style="width: 120px;height:30px;">
+					<option>省份</option>
+				</select>
+				<select name="citylevel" id="citylevel" style="width: 120px;height:30px;margin-left: 2px">
+					<option>城市</option>
+				</select>
+				<select name="arealevel" id="arealevel" style="width: 120px;height:30px;margin-left: 2px">
+					<option>区/县</option>
+				</select>
+				<input type="button" id="add_address" value="添加">
+			</div>
+			
+			<div id="good0">
+				<table>
+					<tr id="goodInfo"></tr>
+					<tr>
+						<td>配送服务</td>
+						<td id="postage"></td>
+					</tr>
+					<tr>
+						<td>运费险</td>
+						<td>
+							<span id="shippingInsurance"></span><br>
+							退换货可赔付<span id="sipMoney"></span>元
+						</td>		
+					</tr>
+					<tr>
+						<td>店铺优惠</td>
+						<td id="coupon"></td>
+					</tr>
+					<tr>
+						<td>开具发票</td>
+						<td id="invoice"></td>
+					</tr>
+					<tr>
+						<td>订单备注</td>
+						<td id="note"></td>
+					</tr>
+				</table>
+			</div>
+			
+			
+			
+			<div>
+				<span id="goodNumber"></span>   <span id="totalMoneyArea"></span>   
+				<input type="button" id="commitButton" value="提交订单" />
+			</div>
+		</section>
+		<script src="../js/jquery.js"></script>
+		<script src="../js/commitorder.js"></script>
+	</body>
+</html>

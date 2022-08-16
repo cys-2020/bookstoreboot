@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.cys.boot.dao.GoodPostageAboutLvDAO">
+	<sql id="allColumn">id,good_id,lv1,lv2,lv3</sql>
+
+	<select id="getGoodPostageAboutLv" parameterType="long" resultType="com.cys.boot.entity.GoodPostageAboutLv">
+		select
+			<include refid="allColumn"/>
+		from t_good_pal where id=#{id}
+	</select>
+	<select id="getGoodPostageAboutLvByGoodId" parameterType="long" resultType="com.cys.boot.entity.GoodPostageAboutLv">
+		select
+			<include refid="allColumn"/>
+		from t_good_pal where good_id=#{goodId}
+	</select>
+	
+	
+	<insert  id="insertGoodPostageAboutLv" parameterType="com.cys.boot.entity.GoodPostageAboutLv" 
+									useGeneratedKeys="true" keyProperty="id">
+		insert into t_good_pal values(null,#{goodId},#{lv1},#{lv2},#{lv3})
+	</insert>
+	
+	<update id="updateGoodPostageAboutLv" parameterType="com.cys.boot.entity.GoodPostageAboutLv">
+		update t_good_pal
+		<set>
+			<if test="lv1!=-1">
+				lv1=#{lv1},
+			</if>
+			<if test="lv2!=-1">
+				lv2=#{lv2},
+			</if>
+			<if test="lv3!=-1">
+				lv3=#{lv3},
+			</if>
+			
+		</set>
+		where id=#{id}
+	</update>
+	
+</mapper>

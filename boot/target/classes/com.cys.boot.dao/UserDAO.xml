@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cys.boot.dao.UserDAO">
+	<sql id="allColumn">id,phone_number,e_mail,pswd,account_number,nice_name,id_number,baobao,lv</sql>
+	
+	<resultMap  id="userMap" type="com.cys.boot.entity.User">
+		<!-- 使用一对多级联，如果你根据这个id,
+				可能select多个结果时 -->
+		<id property="id" column="id"/>
+		<collection  fetchType="eager" property="addresses" column="id" 
+select="com.cys.boot.dao.AddressDAO.getAddressByUserId"/>
+		 <!--设置鉴别级联 ,根据结果的sex，将结果再映射到不同子类
+		 鉴别级联最先开始，因为需要原始结果集判断
+		<discriminator   javaType="int" column="sex">
+			<case value="1" resultMap="studentMaleMap"/>
+			<case value="2" resultMap="studentFemaleMap"/>
+		</discriminator>-->
+	</resultMap> 
+	
+	<select id="getUser" parameterType="long" resultMap="userMap">
+		select 
+			<include refid="allColumn"/>
+		from t_user where id=#{id}
+	</select>
+	<select id="getUserByPhoneNumber" parameterType="long" resultMap="userMap">
+		select 
+			<include refid="allColumn"/>
+		from t_user where phone_number=#{phoneNumber}
+	</select>
+	
+	<insert id="insertUser" parameterType="com.cys.boot.entity.User" 
+									useGeneratedKeys="true" keyProperty="id">
+		insert into t_user values (null,#{phoneNumber},#{eMail},#{pswd},#{accountNumber},#{niceName},"",0,1)
+	</insert>
+	
+	<update id="updateUser" parameterType="com.cys.boot.entity.User">
+		update t_user
+		<set>
+			<if test="phoneNumber!=0">
+				phone_number=#{phoneNumber},
+			</if>
+			<if test="eMail!=null">
+				e_mail=#{eMail},
+			</if>
+			<if test="pswd!=null">
+				pswd=#{pswd},
+			</if>
+			<if test="niceName!=null">
+				nice_name=#{niceName},
+			</if>
+			baobao=#{baobao},
+			<!-- test的是对象，判断转换类型前的值 -->
+			<if test="lv!=null">
+				lv=#{lv},
+			</if>
+		</set>
+		where id=#{id}
+	</update>
+	
+	<delete id="deleteUser" parameterType="com.cys.boot.entity.User">
+		delete from t_user where id=#{id}
+	</delete>
+	
+</mapper>

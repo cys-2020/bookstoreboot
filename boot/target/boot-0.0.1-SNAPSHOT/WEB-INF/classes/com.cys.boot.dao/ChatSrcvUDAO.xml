@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cys.boot.dao.ChatSrcvUDAO">
+	<sql id="allColumn">id,store_id,user_id,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,r12</sql>
+	
+	<!-- 如果需要多行结果，放心把DAO返回改为List即可，
+					mapper这里不用管返回类型 ！！！！！！！！-->
+	<select id="getChatSrcvUs" resultType="com.cys.boot.entity.ChatSrcvU">
+		select 
+			<include refid="allColumn"/>
+		from t_srcvu_chat where store_id=#{storeId} and user_id=#{userId}
+	</select>
+	<select id="getAllTargetUserIdInChatSrcvU" parameterType="long" resultType="long">
+		select user_id  
+		from t_srcvu_chat where store_id=#{s}
+	</select>
+	<select id="getLatestChatSrcvURecordInChatSrcvU" parameterType="long" resultType="String">
+		select getLatestRnFromT_srcvu_chatById(#{id})
+	</select>
+	
+	<!-- 当update where的双方不存在时，或存在但该id记录已满时(r12!='') -->
+	<insert id="insertChatSrcvU" parameterType="com.cys.boot.entity.ChatSrcvU" 
+									useGeneratedKeys="true" keyProperty="id">
+		insert into t_srcvu_chat values(null,#{storeId},#{userId},#{r1},"","","","","","","","","","","")
+	</insert>
+	
+	<update id="updateChatSrcvU" parameterType="com.cys.boot.entity.ChatSrcvU">
+		update t_srcvu_chat<!-- 插入时双方确定且已有r1 -->
+		<set><!-- test属性是参数对象字段，不是表里的字段！！！ -->
+			<if test="r2!=''">
+				r2=#{r2},
+			</if>
+			<if test="r3!=''">
+				r3=#{r3},
+			</if>
+			<if test="r4!=''">
+				r4=#{r4},
+			</if>
+			<if test="r5!=''">
+				r5=#{r5},
+			</if>
+			<if test="r6!=''">
+				r6=#{r6},
+			</if>
+			<if test="r7!=''">
+				r7=#{r7},
+			</if>
+			<if test="r8!=''">
+				r8=#{r8},
+			</if>
+			<if test="r9!=''">
+				r9=#{r9},
+			</if>
+			<if test="r10!=''">
+				r10=#{r10},
+			</if>
+			<if test="r11!=''">
+				r11=#{r11},
+			</if>
+			<if test="r12!=''">
+				r12=#{r12},
+			</if>
+		</set>
+		where id=#{id}
+	</update>
+	
+	<delete id="deleteChatSrcvU" parameterType="com.cys.boot.entity.ChatSrcvU">
+		delete from t_srcvu_chat where store_id=#{storeId} and user_id=#{userId}
+	</delete>
+	
+</mapper>

@@ -1,0 +1,13 @@
+select{
+	display: none;
+}
+#addresses_area{
+	display: none;
+}
+.yes{
+	background-color: #7FFF00;
+}
+#yes_address{
+	display: none;
+}
+

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cys.boot.dao.GoodDAO">
+	<sql id="allColumn">id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref</sql>
+	<sql id="goodshelfColumn">id,store_id,top_ref,title,price,sale_amount</sql>
+	
+	<resultMap  id="goodMap" type="com.cys.boot.entity.Good">
+<!-- 如果你使用reslutMap，必须声明id主键 -->
+		<id property="id" column="id"/>
+		<!-- 设置一对一级联 ,如果你确定要级联的bean
+			属性只select唯一一个结果!!!
+		column=id为传过去的参数(
+					那个方法根据这个id外键来Select)
+		select=被级联的方法名(写全文件名和方法名)
+			property为将保存该级联方法的结果的属性（只写字段名！！！）-->
+		<association  fetchType="lazy" property="param" column="id" 
+			select="com.cys.boot.dao.GoodParamDAO.getGoodParamByGoodId"/>
+		<association  fetchType="lazy" property="postageAboutLv" column="id" 
+			select="com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId"/>
+	</resultMap> 
+	
+	<select id="getGoodByNameInStore"  resultType="com.cys.boot.entity.Good">
+	<!-- 自定义字段（属性），sql可以把它当作变量引用它（用name） -->
+	<!-- 注意传来的（多个）参数名要写对（value） -->	
+		<bind name="nameKey" value="'%' +nameKey+'%'"/>
+		select 
+			<include refid="goodshelfColumn"/>
+		from t_good where title like #{nameKey} and store_id=#{storeId}
+	</select>
+	<select id="getGoodByName" parameterType="String" resultType="com.cys.boot.entity.Good">
+	<!-- 自定义字段（属性），sql可以把它当作变量引用它（用name） -->
+	<!-- 注意传来的（多个）参数名要写对（value） -->	
+		<bind name="nameKey" value="'%' +nameKey+'%'"/>
+		select 
+			<include refid="goodshelfColumn"/>
+		from t_good where title like #{nameKey}
+	</select>
+	<select id="getGoodByStoreId"  parameterType="long" resultType="com.cys.boot.entity.Good">
+		select 
+			<include refid="goodshelfColumn"/>
+		from t_good where store_id=#{storeId}
+	</select>
+	<select id="getGood"  parameterType="long" resultMap="goodMap">
+		select 
+			<include refid="allColumn"/>
+		from t_good where id=#{id}
+	</select>
+	
+	<select id="getStoreid" parameterType="long" resultType="long">
+		select store_id from t_good where id=#{id}
+	</select>
+	<select id="getAllGood" parameterType="long" resultType="com.cys.boot.entity.Good">
+		select <include refid="goodshelfColumn"/>
+		 from t_good
+	</select>
+	
+	
+	<insert id="insertGood" parameterType="com.cys.boot.entity.Good" 
+									useGeneratedKeys="true" keyProperty="id">
+		insert into t_good values(null,#{storeId},#{topRef},#{title},0,#{price},0,#{typs},#{shippingCompany},#{shippingFrom},#{shippingInsurance},#{sendTime},#{repoNumber},#{bottomRef})
+	</insert>
+	
+	<update id="updateGood" parameterType="com.cys.boot.entity.Good">
+		update t_good
+		<set>
+			<if test="topRef!=null">
+				top_ref=#{topRef},
+			</if>
+			<if test="title!=null">
+				title=#{title},
+			</if>
+			<if test="actFlag!=-1">
+				act_flag=#{actFlag},
+			</if>
+			<if test="price!=0">
+				price=#{price},
+			</if>
+			<if test="saleAmount!=-1">
+				sale_amount=#{saleAmount},
+			</if>
+			<if test="typs!=null">
+				typs=#{typs},
+			</if>
+			<if test="shippingCompany!=null">
+				shipping_company=#{shippingCompany},
+			</if>
+			<if test="shippingFrom!=null">
+				shipping_from=#{shippingFrom},
+			</if>
+			<if test="shippingInsurance!=null">
+				shipping_insurance=#{shippingInsurance},
+			</if>
+			<if test="sendTime!=null">
+				send_time=#{sendTime},
+			</if>
+			<if test="repoNumber!=null">
+				repo_number=#{repoNumber},
+			</if>
+			<if test="bottomRef!=null">
+				bottom_ref=#{bottomRef},
+			</if>
+		</set>
+		where id=#{id}
+	</update>
+	
+	<delete id="deleteGood" parameterType="com.cys.boot.entity.Good">
+		delete from t_good where id=#{id}
+	</delete>
+	
+</mapper>

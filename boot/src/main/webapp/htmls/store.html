@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link type="text/css" rel="stylesheet" href="../css/store.css" />
+</head>
+<body>
+	<section>
+		<div id="storeBasicInfoArea"></div>
+		<div id="goodsArea"></div>
+		<p><input type="button" id="addGoodButton" value="上架新的宝贝"></p>
+		<div id="addGoodArea">
+			添加top资源（用于展示）：<input type="file" id="topRefsFiles" multiple="multiple"/><br>
+			添加bottom图片（详细信息）：<input type="file" id="bottomRefsFiles" multiple="multiple"/><br>
+			<input type="text" id="titleText" placeholder="请输入宝贝标题"><br>
+			<input type="text" id="priceText" placeholder="请输入对应售价"><br>
+			<input type="text" id="typesText" placeholder="请输入宝贝种类（t1，t2）"><br>
+			<input type="text" id="shippingCompanyText" placeholder="请输入快递公司（123456）"><br>
+			<input type="text" id="shippingFromText" placeholder="请输入宝贝从哪里邮寄"><br>
+			<input type="text" id="shippingInsuranceText" placeholder="请输入宝贝运费险（1，2）"><br>
+			<input type="text" id="postageAndLvText" placeholder="请输入宝贝区域对应邮费（lv1,lv2,lv3）"><br>
+			<input type="text" id="sendTimeText" placeholder="请输入宝贝发货时间（1,2,3,4"><br>
+			<input type="text" id="repoNumberText" placeholder="请输入宝贝初始库存数">
+			<div>
+				填写宝宝贝参数<br>
+				<input type="text" id="pNameText" placeholder="请输入产品名">
+				<input type="text" id="srcPlaceText" placeholder="请输入产地"><br>
+				<input type="text" id="comNameText" placeholder="请输入产品公司名">
+				<input type="text" id="shelfLifeText" placeholder="请输入保质期"><br>
+				<input type="text" id="pIdText" placeholder="（可选）请输入产品编号">
+				<input type="text" id="pStandardText" placeholder="（可选）请输入国家标准"><br>
+				<input type="text" id="materialText" placeholder="（可选）请输入产品材质">
+				<input type="text" id="sizeText" placeholder="（可选）请输入产品尺寸"><br>
+				<input type="text" id="surfaceText" placeholder="（可选）请输入产品外观">
+			</div>
+		</div>
+		<p><input type="button" id="yesAddGoodButton" value="确认上架"></p>
+		<p><input type="button" id="decreGoodsButton" value="下架宝贝"></p>
+		<p><input type="button" id="yesDecreGoodsButton" value="确认下架"></p>
+	</section>
+	<script src="../js/jquery.js"></script>
+	<script src="../js/store.js"></script>
+</body>
+</html>

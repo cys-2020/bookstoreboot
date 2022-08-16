@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cys.boot.dao.AddressDAO">
+	<sql id="allColumn">id,user_id,who,phone_number,address,address_detail,flag</sql>
+	
+	<!-- 如果需要多行结果，
+					mapper这里不用管返回类型 ！！！！！！！！-->
+	<select id="getAddress" resultType="com.cys.boot.entity.Address">
+		select 
+			<include refid="allColumn"/>
+		from t_address where id=#{id}
+	</select>
+	<select id="getAddressByUserId" parameterType="long" resultType="com.cys.boot.entity.Address">
+		select <include refid="allColumn"/>
+		 from t_address where user_id=#{userId}
+	</select>
+	
+	<!-- 当update where的双方不存在时，或存在但该id记录已满时(r12!='') -->
+	<insert id="insertAddress" parameterType="com.cys.boot.entity.Address" 
+									useGeneratedKeys="true" keyProperty="id">
+		insert into t_address values(null,#{userId},#{who},#{phoneNumber},#{address},#{addressDetail},#{flag})
+	</insert>
+	
+	<update id="updateAddress" parameterType="com.cys.boot.entity.Address">
+		update t_address
+		<set><!-- test属性是参数对象字段，不是表里的字段！！！ -->
+			<if test="who!=null">
+				who=#{who},
+			</if>
+			<if test="phoneNumber!=0">
+				phone_number=#{phoneNumber},
+			</if>
+			<if test="address!=null">
+				address=#{address},
+			</if>
+			<if test="addressDetail!=null">
+				address_detail=#{addressDetail},
+			</if>
+			flag=#{flag}
+		</set>
+		where id=#{id}
+	</update>
+	
+	<delete id="deleteAddress" parameterType="long">
+		delete from t_address where id=#{id}
+	</delete>
+	
+</mapper>

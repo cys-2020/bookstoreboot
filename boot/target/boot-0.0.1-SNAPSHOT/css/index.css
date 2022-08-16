@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>index</title>
+</head>
+<body>
+	<h1>欢迎来到CYS的书店！</h1>
+	<div>
+		<p><a href="allbook.html">全部宝贝</a>    <a href="shoppingcart.html">我的购物车</a></p>
+		<p><input type="text" id="target" placeholder="请输入书名关键词">    <input type="button" id="find_button" value="查询"></p>
+	</div>
+	<script src="../js/jquery-3.6.0.min.js"></script>
+	<script src="../js/index.js"></script>
+</body>
+</html>

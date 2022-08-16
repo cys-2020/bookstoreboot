@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cys.boot.dao.RefundDAO">
+	<sql id="allColumn">id,order_id,refund_number,apply_time,ok_time,refund_option,refund_description,flag</sql>
+	
+	<select id="getRefund" resultType="com.cys.boot.entity.Refund">
+		select 
+			<include refid="allColumn"/>
+		from t_refund where id=#{id}
+	</select>
+	
+	<insert id="insertRefund" parameterType="com.cys.boot.entity.Refund" 
+									useGeneratedKeys="true" keyProperty="id">
+		insert into t_refund (order_id,refund_number,apply_time,refund_option,refund_description,flag)value(#{orderId},#{refundNumber},#{applyTime},#{refundOption},#{refundDescription},0)
+	</insert>
+	<update id="updateRefund" parameterType="com.cys.boot.entity.Refund" >
+		update t_refund 
+		<set>
+			<if test="okTime!=null">
+				ok_time=#{okTime},
+			</if>
+			<if test="flag!=0">
+				flag=#{flag}
+			</if>
+		</set>
+		where id=#{id}
+	</update>
+	<delete id="deleteRefund" parameterType="com.cys.boot.entity.Refund">
+		delete from t_refund where id=#{id}
+	</delete>
+	
+</mapper>

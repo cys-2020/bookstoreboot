@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>register</title>
+</head>
+<body>
+	<p>请输入用户名(英文字母和数字组成):<input type="text" id="username" placeholder="用户名"></p>
+	<p>请输入密码(英文字母和数字组成):   <input type="password" id="password" placeholder="密码"></p>
+	<p>请再次输入密码:	              <input type="password" id="password2"></p>
+	<div id="difference_area"></div>
+	<div>
+		<p><input type="text" id="phoneverifycode" placeholder="手机验证码">   <input type="button" id="phoneverifycode_button" value="获取手机验证码"></p> 
+		<p><input type="text" id="verifycode" placeholder="验证码">   <span id="verifycode_area"></span></p> 
+		<p id="prompt_area"></p>
+	</div>
+	<p><input type="button" id="register_button" value="注册"></p>
+	<script src="../js/jquery-3.6.0.min.js"></script>
+	<script src="../js/register.js"></script>
+	
+</body>
+</html>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cys.boot.dao.StoreDAO">
+	<sql id="allColumn">id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time</sql>
+	<sql id="storeshelfColumn">id,store_name,lv,fans,register_time</sql>
+	
+	<resultMap  id="storeMap" type="com.cys.boot.entity.Store">
+		<!-- 使用一对多级联，如果你根据这个id,
+				可能select多个结果时 -->
+		<id property="id" column="id"/>
+		<collection  fetchType="lazy" property="goods" column="id" 
+select="com.cys.boot.dao.GoodDAO.getGoodByStoreId"/>
+		 <!--设置鉴别级联 ,根据结果的sex，将结果再映射到不同子类
+		 鉴别级联最先开始，因为需要原始结果集判断
+		<discriminator   javaType="int" column="sex">
+			<case value="1" resultMap="studentMaleMap"/>
+			<case value="2" resultMap="studentFemaleMap"/>
+		</discriminator>-->
+	</resultMap> 
+	
+	<select id="getStoreByName" parameterType="String" resultType="com.cys.boot.entity.Store">
+		<bind name="nameKey" value="'%' +nameKey+'%'"/>
+		select 
+			<include refid="storeshelfColumn"/>
+		from t_store where store_name like #{nameKey}
+	</select>
+	<select id="getStore" parameterType="long" resultMap="storeMap">
+		select
+			<include refid="allColumn"/>
+		from t_store where id=#{id}
+	</select>
+	<select id="getStoreName" parameterType="long" resultType="String">
+		select store_name from t_store where id=#{id}
+	</select>
+	<select id="getStoreBySellerId" parameterType="long" resultType="com.cys.boot.entity.Store">
+		select <include refid="allColumn"/> 
+		from t_store where seller_id=#{sellerId}
+	</select>
+	<select id="getStoreAndAllGood" parameterType="long" resultMap="storeMap">
+		select <include refid="allColumn"/> 
+		from t_store where id=#{id}
+	</select>
+	
+	
+	
+	
+	
+	<insert id="insertStore" parameterType="com.cys.boot.entity.Store" 
+									useGeneratedKeys="true" keyProperty="id">
+		insert into t_store values(null,#{sellerId},#{storeName},1,4.5,4.5,4.5,#{classes},0,0,#{registerTime})
+	</insert>
+	
+	<update id="updateStore" parameterType="com.cys.boot.entity.Store">
+		update t_store
+		<set>
+			<if test="storeName!=null">
+				store_name=#{storeName},
+			</if>
+			<if test="lv!=null">
+				lv=#{lv},
+			</if>
+			<if test="goodScore!=0">
+				good_score=#{goodScore},
+			</if>
+			<if test="serviceScore!=0">
+				service_score=#{serviceScore},
+			</if>
+			<if test="shippingScore!=0">
+				shipping_score=#{shippingScore},
+			</if>
+			<if test="classes!=null">
+				classes=#{classes},
+			</if>
+			<if test="saleActivity!=null">
+				sale_activity=#{saleActivity},
+			</if>
+			<if test="fans!=0">
+				fans=#{fans},
+			</if>
+		</set>
+		where id=#{id}
+	</update>
+	
+	<delete id="deleteStore" parameterType="com.cys.boot.entity.Store">
+		delete from t_store where id=#{id}
+	</delete>
+	
+</mapper>

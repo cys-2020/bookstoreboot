@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cys.boot.dao.CustomerServiceStaffDAO">
+	<sql id="allColumn">id,user_id,nice_name</sql>
+
+	<select id="getCustomerServiceStaff" parameterType="long" resultType="com.cys.boot.entity.CustomerServiceStaff">
+		select 
+			<include refid="allColumn"/>
+		from t_customer_service_staff where id=#{id}
+	</select>
+	<select id="getCustomerServiceStaffByUserId" parameterType="long" resultType="com.cys.boot.entity.CustomerServiceStaff">
+		select 
+			<include refid="allColumn"/>
+		from t_customer_service_staff where user_id=#{userId}
+	</select>
+	
+	
+	
+	
+	<insert id="insertCustomerServiceStaff" parameterType="com.cys.boot.entity.CustomerServiceStaff" 
+									useGeneratedKeys="true" keyProperty="id">
+		insert into t_customer_service_staff values(null,#{userId},#{niceName})
+	</insert>
+	
+	<update id="updateCustomerServiceStaff" parameterType="com.cys.boot.entity.CustomerServiceStaff">
+		update t_customer_service_staff
+		<set>
+			<if test="phoneNumber!=null">
+				phone_number=#{phoneNumber},
+			</if>
+			<if test="eMail!=null">
+				e_mail=#{eMail},
+			</if>
+			<if test="pswd!=null">
+				pswd=#{pswd},
+			</if>
+			<if test="niceName!=null">
+				nice_name=#{niceName},
+			</if>
+			<if test="addresses!=null">
+				addresses=#{addresses},
+			</if>
+			<if test="baobao!=null">
+				baobao=#{baobao},
+			</if>
+			<if test="lv!=null">
+				lv=#{lv},
+			</if>
+		</set>
+		where id=#{id}
+	</update>
+	
+	<delete id="deleteCustomerServiceStaff" parameterType="com.cys.boot.entity.CustomerServiceStaff">
+		delete from t_customer_service_staff where id=#{id}
+	</delete>
+	
+</mapper>
