@@ -48,3 +48,1259 @@
 [DEBUG][22-08-10][druid.sql.Connection]{conn-10003} connected
 [DEBUG][22-08-10][druid.sql.Connection]{conn-10004} connected
 [DEBUG][22-08-10][druid.sql.Connection]{conn-10005} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10001} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10002} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10003} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} connected
+[DEBUG][22-08-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110001} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110002} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110003} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110004} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110005} connected
+[DEBUG][22-08-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110001} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110002} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110003} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110004} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110005} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-210001} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-210002} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-210003} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-210004} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-210005} connected
+[DEBUG][22-08-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10001} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10002} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10003} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} connected
+[DEBUG][22-08-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110001} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110002} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110003} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110004} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-110005} connected
+[DEBUG][22-08-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10001} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10002} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10003} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} connected
+[DEBUG][22-08-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10001} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10002} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10003} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} connected
+[DEBUG][22-08-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10001} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10002} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10003} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} closed
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10001} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10002} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10003} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} connected
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} connected
+[DEBUG][22-08-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1be337d8]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.UserDAO.getUserByPhoneNumber]==>  Preparing: select id,phone_number,e_mail,pswd,account_number,nice_name,id_number,baobao,lv from t_user where phone_number=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20000} created. select 
+			 id,phone_number,e_mail,pswd,account_number,nice_name,id_number,baobao,lv 
+		from t_user where phone_number=?
+[DEBUG][22-08-17][com.cys.boot.dao.UserDAO.getUserByPhoneNumber]==> Parameters: 77777777777(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20000} Parameters : [77777777777]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20000} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20000} executed. 14.368 millis. select 
+			 id,phone_number,e_mail,pswd,account_number,nice_name,id_number,baobao,lv 
+		from t_user where phone_number=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} Header: [id, phone_number, e_mail, pswd, account_number, nice_name, id_number, baobao, lv]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} Result: [149, 77777777777, 1764940738@qq.com, 1, ssm22084702751, 靓丽的树墩子, , 0, 1]
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddressByUserId]====>  Preparing: select id,user_id,who,phone_number,address,address_detail,flag from t_address where user_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20001} created. select  id,user_id,who,phone_number,address,address_detail,flag 
+		 from t_address where user_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddressByUserId]====> Parameters: 149(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20001} Parameters : [149]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20001} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20001} executed. 3.3948 millis. select  id,user_id,who,phone_number,address,address_detail,flag 
+		 from t_address where user_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50001} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50001} Header: [id, user_id, who, phone_number, address, address_detail, flag]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50001} Result: [8, 149, 陈永胜, 18295520108, 宁夏石嘴山市惠农区, 小镇, 1]
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddressByUserId]<====      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20001, rs-50001} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20001} clearParameters. 
+[DEBUG][22-08-17][com.cys.boot.dao.UserDAO.getUserByPhoneNumber]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20000, rs-50000} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20000} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1be337d8]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1be337d8]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1be337d8]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63a74cc1]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6851f310]
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7f21e625] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartDAO.getShoppingCart]==>  Preparing: select * from t_shoppingcart where user_id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getAllGood]==>  Preparing: select id,store_id,top_ref,title,price,sale_amount from t_good 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20002} created. select  id,store_id,top_ref,title,price,sale_amount 
+		 from t_good
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20003} created. select * from t_shoppingcart where user_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getAllGood]==> Parameters: 
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartDAO.getShoppingCart]==> Parameters: 149(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20002} Parameters : []
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20003} Parameters : [149]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20002} Types : []
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20003} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20002} executed. 3.5768 millis. select  id,store_id,top_ref,title,price,sale_amount 
+		 from t_good
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20002, rs-50002} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20002, rs-50002} Header: [id, store_id, top_ref, title, price, sale_amount]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20002, rs-50002} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 49.5, 0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getAllGood]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20002, rs-50002} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20002} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63a74cc1]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63a74cc1]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@63a74cc1]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5c6bfd28]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==>  Preparing: select id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time from t_store where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} created. select
+			 id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time 
+		from t_store where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20003} executed. 21.452 millis. select * from t_shoppingcart where user_id=?
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20003, rs-50003} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20003, rs-50003} Header: [id, user_id]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20003, rs-50003} Result: [47, 149]
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartDAO.getShoppingCart]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20003, rs-50003} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20003} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6851f310]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6851f310]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6851f310]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} pool-recycle
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} executed. 8.4607 millis. select
+			 id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time 
+		from t_store where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50004} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50004} Header: [id, seller_id, store_name, lv, good_score, service_score, shipping_score, classes, sale_activityid, fans, register_time]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50004} Result: [15, 7, 陈永胜的总店, 1, 4.5, 4.5, 4.5, 球拍&&球鞋&&球服, 0, 0, 2022-08-17 02:11:57.0]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@49430664]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7f21e625] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartItemDAO.getShoppingCartItemByShoppingCartId]==>  Preparing: select id,shoppingcart_id,good_id,good_name,amount,price,typ from t_shoppingcart_item where shoppingcart_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20005} created. select 
+			 id,shoppingcart_id,good_id,good_name,amount,price,typ 
+		from t_shoppingcart_item where shoppingcart_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartItemDAO.getShoppingCartItemByShoppingCartId]==> Parameters: 47(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20005} Parameters : [47]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20005} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20005} executed. 3.1617 millis. select 
+			 id,shoppingcart_id,good_id,good_name,amount,price,typ 
+		from t_shoppingcart_item where shoppingcart_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20005, rs-50005} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20005, rs-50005} Header: [id, shoppingcart_id, good_id, good_name, amount, price, typ]
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartItemDAO.getShoppingCartItemByShoppingCartId]<==      Total: 0
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20005, rs-50005} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20005} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@49430664]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@49430664]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@49430664]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} pool-recycle
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50004} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5c6bfd28]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5c6bfd28]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5c6bfd28]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]==>  Preparing: select id,store_id,top_ref,title,price,sale_amount from t_good where store_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} created. select 
+			 id,store_id,top_ref,title,price,sale_amount 
+		from t_good where store_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} executed. 1.3921 millis. select 
+			 id,store_id,top_ref,title,price,sale_amount 
+		from t_good where store_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50006} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50006} Header: [id, store_id, top_ref, title, price, sale_amount]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50006} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 49.5, 0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50006} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c52116]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByName]==>  Preparing: select id,store_id,top_ref,title,price,sale_amount from t_good where title like ? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20007} created. select 
+			 id,store_id,top_ref,title,price,sale_amount 
+		from t_good where title like ?
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByName]==> Parameters: %E%(String)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20007} Parameters : [%E%]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20007} Types : [VARCHAR]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20007} executed. 1.1216 millis. select 
+			 id,store_id,top_ref,title,price,sale_amount 
+		from t_good where title like ?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20007, rs-50007} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20007, rs-50007} Header: [id, store_id, top_ref, title, price, sale_amount]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20007, rs-50007} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 49.5, 0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByName]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20007, rs-50007} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20007} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c52116]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c52116]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c52116]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26eac6e0]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==>  Preparing: select id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time from t_store where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} executed. 2.3034 millis. select
+			 id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time 
+		from t_store where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50008} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50008} Header: [id, seller_id, store_name, lv, good_score, service_score, shipping_score, classes, sale_activityid, fans, register_time]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50008} Result: [15, 7, 陈永胜的总店, 1, 4.5, 4.5, 4.5, 球拍&&球鞋&&球服, 0, 0, 2022-08-17 02:11:57.0]
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50008} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26eac6e0]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26eac6e0]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26eac6e0]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]==>  Preparing: select id,store_id,top_ref,title,price,sale_amount from t_good where store_id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} executed. 1.3483 millis. select 
+			 id,store_id,top_ref,title,price,sale_amount 
+		from t_good where store_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50009} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50009} Header: [id, store_id, top_ref, title, price, sale_amount]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50009} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 49.5, 0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50009} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@be17665]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]==>  Preparing: select id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref from t_good where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} created. select 
+			 id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref 
+		from t_good where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} executed. 4.3824 millis. select 
+			 id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref 
+		from t_good where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50010} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50010} Header: [id, store_id, top_ref, title, act_flag, price, sale_amount, typs, shipping_company, shipping_from, shipping_insurance, send_time, repo_number, bottom_ref]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50010} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 0, 49.5, 0, 第一版&&第二版&&第三版英文, 2, 江苏常州, 1, 1, 9999, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50010} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@be17665]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@be17665]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@be17665]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@17e3cf7d]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==>  Preparing: select id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time from t_store where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} executed. 3.0871 millis. select
+			 id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time 
+		from t_store where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50011} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50011} Header: [id, seller_id, store_name, lv, good_score, service_score, shipping_score, classes, sale_activityid, fans, register_time]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50011} Result: [15, 7, 陈永胜的总店, 1, 4.5, 4.5, 4.5, 球拍&&球鞋&&球服, 0, 0, 2022-08-17 02:11:57.0]
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50011} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@17e3cf7d]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@17e3cf7d]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@17e3cf7d]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]==>  Preparing: select id,good_id,lv1,lv2,lv3 from t_good_pal where good_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} created. select
+			 id,good_id,lv1,lv2,lv3 
+		from t_good_pal where good_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} executed. 4.1085 millis. select
+			 id,good_id,lv1,lv2,lv3 
+		from t_good_pal where good_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50012} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50012} Header: [id, good_id, lv1, lv2, lv3]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50012} Result: [8, 10, 0.0, 20.0, 8.0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50012} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]==>  Preparing: select id,store_id,top_ref,title,price,sale_amount from t_good where store_id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} executed. 1.0518 millis. select 
+			 id,store_id,top_ref,title,price,sale_amount 
+		from t_good where store_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50013} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50013} Header: [id, store_id, top_ref, title, price, sale_amount]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50013} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 49.5, 0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50013} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodParamDAO.getGoodParamByGoodId]==>  Preparing: select id,good_id,p_name,src_place,com_name,shelf_life,p_id,p_standard,material,size,surface from t_good_param where good_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} created. select
+			 id,good_id,p_name,src_place,com_name,shelf_life,p_id,p_standard,material,size,surface 
+		from t_good_param where good_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.GoodParamDAO.getGoodParamByGoodId]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} executed. 3.1998 millis. select
+			 id,good_id,p_name,src_place,com_name,shelf_life,p_id,p_standard,material,size,surface 
+		from t_good_param where good_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50014} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50014} Header: [id, good_id, p_name, src_place, com_name, shelf_life, p_id, p_standard, material, size, surface]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50014} Result: [7, 10, Effective Java, 中国, 机械工业出版社, 很久, , , , , ]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodParamDAO.getGoodParamByGoodId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50014} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e30d16c]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddress]==>  Preparing: select id,user_id,who,phone_number,address,address_detail,flag from t_address where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} created. select 
+			 id,user_id,who,phone_number,address,address_detail,flag 
+		from t_address where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddress]==> Parameters: 8(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} Parameters : [8]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} executed. 2.3798 millis. select 
+			 id,user_id,who,phone_number,address,address_detail,flag 
+		from t_address where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50015} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50015} Header: [id, user_id, who, phone_number, address, address_detail, flag]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50015} Result: [8, 149, 陈永胜, 18295520108, 宁夏石嘴山市惠农区, 小镇, 1]
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddress]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50015} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e30d16c]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e30d16c]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e30d16c]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2e5324c6]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]==>  Preparing: select id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref from t_good where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} executed. 2.0616 millis. select 
+			 id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref 
+		from t_good where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50016} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50016} Header: [id, store_id, top_ref, title, act_flag, price, sale_amount, typs, shipping_company, shipping_from, shipping_insurance, send_time, repo_number, bottom_ref]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50016} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 0, 49.5, 0, 第一版&&第二版&&第三版英文, 2, 江苏常州, 1, 1, 9999, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50016} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2e5324c6]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2e5324c6]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2e5324c6]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]==>  Preparing: select id,good_id,lv1,lv2,lv3 from t_good_pal where good_id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} executed. 2.0418 millis. select
+			 id,good_id,lv1,lv2,lv3 
+		from t_good_pal where good_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50017} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50017} Header: [id, good_id, lv1, lv2, lv3]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50017} Result: [8, 10, 0.0, 20.0, 8.0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50017} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6660d978]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.CouponDAO.getCouponByBothId]==>  Preparing: select id,user_id,store_id,manjian1,manjian2,manjian3,manjian4,manjian5,manjian6,manjian7,manjian8,manjian9,manjian10,amount_str from t_coupon where user_id=? and store_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20012} created. select
+			 id,user_id,store_id,manjian1,manjian2,manjian3,manjian4,manjian5,manjian6,manjian7,manjian8,manjian9,manjian10,amount_str 
+		from t_coupon where user_id=? and store_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.CouponDAO.getCouponByBothId]==> Parameters: 149(Long), 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20012} Parameters : [149, 15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20012} Types : [BIGINT, BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20012} executed. 5.2126 millis. select
+			 id,user_id,store_id,manjian1,manjian2,manjian3,manjian4,manjian5,manjian6,manjian7,manjian8,manjian9,manjian10,amount_str 
+		from t_coupon where user_id=? and store_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20012, rs-50018} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20012, rs-50018} Header: [id, user_id, store_id, manjian1, manjian2, manjian3, manjian4, manjian5, manjian6, manjian7, manjian8, manjian9, manjian10, amount_str]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20012, rs-50018} Result: [7, 149, 15, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 5*5*5*5*5*5*5*5*5*5*]
+[DEBUG][22-08-17][com.cys.boot.dao.CouponDAO.getCouponByBothId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20012, rs-50018} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20012} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6660d978]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6660d978]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6660d978]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7ee96cca]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]==>  Preparing: select id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref from t_good where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} executed. 4.2671 millis. select 
+			 id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref 
+		from t_good where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50019} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50019} Header: [id, store_id, top_ref, title, act_flag, price, sale_amount, typs, shipping_company, shipping_from, shipping_insurance, send_time, repo_number, bottom_ref]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50019} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 0, 49.5, 0, 第一版&&第二版&&第三版英文, 2, 江苏常州, 1, 1, 9999, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50019} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7ee96cca]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7ee96cca]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7ee96cca]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c1bb69]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==>  Preparing: select id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time from t_store where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} executed. 1.6393 millis. select
+			 id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time 
+		from t_store where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50020} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50020} Header: [id, seller_id, store_name, lv, good_score, service_score, shipping_score, classes, sale_activityid, fans, register_time]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50020} Result: [15, 7, 陈永胜的总店, 1, 4.5, 4.5, 4.5, 球拍&&球鞋&&球服, 0, 0, 2022-08-17 02:11:57.0]
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50020} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c1bb69]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c1bb69]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c1bb69]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@77f89d11]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.CouponDAO.getCouponByBothId]==>  Preparing: select id,user_id,store_id,manjian1,manjian2,manjian3,manjian4,manjian5,manjian6,manjian7,manjian8,manjian9,manjian10,amount_str from t_coupon where user_id=? and store_id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.CouponDAO.getCouponByBothId]==> Parameters: 149(Long), 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20012} Parameters : [149, 15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20012} Types : [BIGINT, BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20012} executed. 2.2466 millis. select
+			 id,user_id,store_id,manjian1,manjian2,manjian3,manjian4,manjian5,manjian6,manjian7,manjian8,manjian9,manjian10,amount_str 
+		from t_coupon where user_id=? and store_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20012, rs-50021} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20012, rs-50021} Header: [id, user_id, store_id, manjian1, manjian2, manjian3, manjian4, manjian5, manjian6, manjian7, manjian8, manjian9, manjian10, amount_str]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20012, rs-50021} Result: [7, 149, 15, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 5*5*5*5*5*5*5*5*5*5*]
+[DEBUG][22-08-17][com.cys.boot.dao.CouponDAO.getCouponByBothId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20012, rs-50021} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20012} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@77f89d11]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@77f89d11]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@77f89d11]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]==>  Preparing: select id,good_id,lv1,lv2,lv3 from t_good_pal where good_id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} executed. 1.2992 millis. select
+			 id,good_id,lv1,lv2,lv3 
+		from t_good_pal where good_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50022} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50022} Header: [id, good_id, lv1, lv2, lv3]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50022} Result: [8, 10, 0.0, 20.0, 8.0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50022} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]==>  Preparing: select id,store_id,top_ref,title,price,sale_amount from t_good where store_id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} executed. 2.7512 millis. select 
+			 id,store_id,top_ref,title,price,sale_amount 
+		from t_good where store_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50023} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50023} Header: [id, store_id, top_ref, title, price, sale_amount]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50023} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 49.5, 0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20006, rs-50023} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20006} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodParamDAO.getGoodParamByGoodId]==>  Preparing: select id,good_id,p_name,src_place,com_name,shelf_life,p_id,p_standard,material,size,surface from t_good_param where good_id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodParamDAO.getGoodParamByGoodId]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} executed. 1.8563 millis. select
+			 id,good_id,p_name,src_place,com_name,shelf_life,p_id,p_standard,material,size,surface 
+		from t_good_param where good_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50024} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50024} Header: [id, good_id, p_name, src_place, com_name, shelf_life, p_id, p_standard, material, size, surface]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50024} Result: [7, 10, Effective Java, 中国, 机械工业出版社, 很久, , , , , ]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodParamDAO.getGoodParamByGoodId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50024} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@27370bb]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddress]==>  Preparing: select id,user_id,who,phone_number,address,address_detail,flag from t_address where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddress]==> Parameters: 8(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} Parameters : [8]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} executed. 1.2859 millis. select 
+			 id,user_id,who,phone_number,address,address_detail,flag 
+		from t_address where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50025} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50025} Header: [id, user_id, who, phone_number, address, address_detail, flag]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50025} Result: [8, 149, 陈永胜, 18295520108, 宁夏石嘴山市惠农区, 小镇, 1]
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddress]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50025} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@27370bb]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@27370bb]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@27370bb]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@59923b86]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]==>  Preparing: select id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref from t_good where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} executed. 1.4173 millis. select 
+			 id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref 
+		from t_good where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50026} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50026} Header: [id, store_id, top_ref, title, act_flag, price, sale_amount, typs, shipping_company, shipping_from, shipping_insurance, send_time, repo_number, bottom_ref]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50026} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 0, 49.5, 0, 第一版&&第二版&&第三版英文, 2, 江苏常州, 1, 1, 9999, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50026} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@59923b86]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@59923b86]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@59923b86]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]==>  Preparing: select id,good_id,lv1,lv2,lv3 from t_good_pal where good_id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} executed. 2.7366 millis. select
+			 id,good_id,lv1,lv2,lv3 
+		from t_good_pal where good_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50027} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50027} Header: [id, good_id, lv1, lv2, lv3]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50027} Result: [8, 10, 0.0, 20.0, 8.0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodPostageAboutLvDAO.getGoodPostageAboutLvByGoodId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20009, rs-50027} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20009} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3554d2cb]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]==>  Preparing: select id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref from t_good where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} executed. 1.4827 millis. select 
+			 id,store_id,top_ref,title,act_flag,price,sale_amount,typs,shipping_company,shipping_from,shipping_insurance,send_time,repo_number,bottom_ref 
+		from t_good where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50028} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50028} Header: [id, store_id, top_ref, title, act_flag, price, sale_amount, typs, shipping_company, shipping_from, shipping_insurance, send_time, repo_number, bottom_ref]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50028} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 0, 49.5, 0, 第一版&&第二版&&第三版英文, 2, 江苏常州, 1, 1, 9999, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGood]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20008, rs-50028} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20008} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3554d2cb]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3554d2cb]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3554d2cb]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodParamDAO.getGoodParamByGoodId]==>  Preparing: select id,good_id,p_name,src_place,com_name,shelf_life,p_id,p_standard,material,size,surface from t_good_param where good_id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodParamDAO.getGoodParamByGoodId]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} executed. 1.2238 millis. select
+			 id,good_id,p_name,src_place,com_name,shelf_life,p_id,p_standard,material,size,surface 
+		from t_good_param where good_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50029} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50029} Header: [id, good_id, p_name, src_place, com_name, shelf_life, p_id, p_standard, material, size, surface]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50029} Result: [7, 10, Effective Java, 中国, 机械工业出版社, 很久, , , , , ]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodParamDAO.getGoodParamByGoodId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20010, rs-50029} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20010} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit false
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@99240be]
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.insertDealEvidence]==>  Preparing: insert into t_deal_evidence values(null,?,?,?,?,?,?,?) 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20013} created. insert into t_deal_evidence values(null,?,?,?,?,?,?,?)
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.insertDealEvidence]==> Parameters: 10(Long), Effective Java(String), 第三版英文(String), 5(Integer), {material=, size=, surface=, p_name=Effective Java, src_place=中国, id=7, good_id=10, p_id=, com_name=机械工业出版社, shelf_life=很久, p_standard=}(String), store\good\202208170213150.jpg(String), store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg(String)
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@99240be]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@99240be]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20013} batch executed. 15.1602 millis. insert into t_deal_evidence values(null,?,?,?,?,?,?,?)
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20013, rs-50030} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20013, rs-50030} Header: [GENERATED_KEY]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20013, rs-50030} Result: [150]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20013, rs-50030} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20013} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@99240be]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@99240be]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} commited
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit true
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit false
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7be805f3]
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.insertOrderform]==>  Preparing: insert into t_orderform values(null,?,?,?,?,?,?,?,?,?,?,?,?,?,"1970-01-01 08:00:01","1970-01-01 08:00:01","1970-01-01 08:00:01",0) 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20014} created. insert into t_orderform values(null,?,?,?,?,?,?,?,?,?,?,?,?,?,"1970-01-01 08:00:01","1970-01-01 08:00:01","1970-01-01 08:00:01",0)
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.insertOrderform]==> Parameters: 149(Long), 150(Long), 8(Integer), 8.0(Float), 1(Integer), 5(Integer), 无备注(String), 0(Integer), 2208171771379193329(String), 230.5(Float), 223(Integer), 2208678570979559055162538(String), 2022-08-17 18:40:59.0(Timestamp)
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7be805f3]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7be805f3]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20014} batch executed. 6.5299 millis. insert into t_orderform values(null,?,?,?,?,?,?,?,?,?,?,?,?,?,"1970-01-01 08:00:01","1970-01-01 08:00:01","1970-01-01 08:00:01",0)
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20014, rs-50031} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20014, rs-50031} Header: [GENERATED_KEY]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20014, rs-50031} Result: [87]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20014, rs-50031} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20014} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7be805f3]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7be805f3]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} commited
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit true
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@669081e3]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.getOrderform]==>  Preparing: select id,user_id,de_id,address,postage,shipping_insurance,coupon,note,invoice,orderform_number,final_money,deal_point,pay_number,create_time,pay_time,send_time,end_time,orderform_status from t_orderform where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} created. select 
+			 id,user_id,de_id,address,postage,shipping_insurance,coupon,note,invoice,orderform_number,final_money,deal_point,pay_number,create_time,pay_time,send_time,end_time,orderform_status 
+		from t_orderform where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.getOrderform]==> Parameters: 87(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} Parameters : [87]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} executed. 1.4164 millis. select 
+			 id,user_id,de_id,address,postage,shipping_insurance,coupon,note,invoice,orderform_number,final_money,deal_point,pay_number,create_time,pay_time,send_time,end_time,orderform_status 
+		from t_orderform where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50032} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50032} Header: [id, user_id, de_id, address, postage, shipping_insurance, coupon, note, invoice, orderform_number, final_money, deal_point, pay_number, create_time, pay_time, send_time, end_time, orderform_status]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50032} Result: [87, 149, 150, 8, 8.0, 1, 5, 无备注, 0, 2208171771379193329, 230.5, 223, 2208678570979559055162538, 2022-08-17 18:40:59.0, 1970-01-01 08:00:01.0, 1970-01-01 08:00:01.0, 1970-01-01 08:00:01.0, 0]
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.getOrderform]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50032} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@669081e3]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@669081e3]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@669081e3]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47ec42f4]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]==>  Preparing: select id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref from t_deal_evidence where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} created. select
+			 id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref 
+		from t_deal_evidence where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]==> Parameters: 150(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} Parameters : [150]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} executed. 4.1805 millis. select
+			 id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref 
+		from t_deal_evidence where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50033} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50033} Header: [id, good_id, good_title, good_type, good_amount, good_param, top_ref, bottom_ref]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50033} Result: [150, 10, Effective Java, 第三版英文, 5, {material=, size=, surface=, p_name=Effective Java, src_place=中国, id=7, good_id=10, p_id=, com_name=机械工业出版社, shelf_life=很久, p_standard=}, store\good\202208170213150.jpg, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg]
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50033} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47ec42f4]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47ec42f4]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@47ec42f4]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit false
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7f8ad449]
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.updateOrderform]==>  Preparing: update t_orderform SET pay_time=?, orderform_status=? where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20017} created. update t_orderform
+		 SET pay_time=?,
+			
+			
+			
+			
+				orderform_status=? 
+		where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.updateOrderform]==> Parameters: 2022-08-17 18:44:25.0(Timestamp), 1(Integer), 87(Long)
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7f8ad449]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7f8ad449]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20017} batch executed. 2.9418 millis. update t_orderform
+		 SET pay_time=?,
+			
+			
+			
+			
+				orderform_status=? 
+		where id=?
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20017} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7f8ad449]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7f8ad449]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} commited
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit true
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7e0e652e]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.getOrderform]==>  Preparing: select id,user_id,de_id,address,postage,shipping_insurance,coupon,note,invoice,orderform_number,final_money,deal_point,pay_number,create_time,pay_time,send_time,end_time,orderform_status from t_orderform where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.getOrderform]==> Parameters: 87(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} Parameters : [87]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} executed. 1.5809 millis. select 
+			 id,user_id,de_id,address,postage,shipping_insurance,coupon,note,invoice,orderform_number,final_money,deal_point,pay_number,create_time,pay_time,send_time,end_time,orderform_status 
+		from t_orderform where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50034} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50034} Header: [id, user_id, de_id, address, postage, shipping_insurance, coupon, note, invoice, orderform_number, final_money, deal_point, pay_number, create_time, pay_time, send_time, end_time, orderform_status]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50034} Result: [87, 149, 150, 8, 8.0, 1, 5, 无备注, 0, 2208171771379193329, 230.5, 223, 2208678570979559055162538, 2022-08-17 18:40:59.0, 2022-08-17 18:44:25.0, 1970-01-01 08:00:01.0, 1970-01-01 08:00:01.0, 1]
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.getOrderform]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50034} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7e0e652e]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7e0e652e]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7e0e652e]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@49bf2825]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]==>  Preparing: select id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref from t_deal_evidence where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]==> Parameters: 150(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} Parameters : [150]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} executed. 1.7161 millis. select
+			 id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref 
+		from t_deal_evidence where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50035} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50035} Header: [id, good_id, good_title, good_type, good_amount, good_param, top_ref, bottom_ref]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50035} Result: [150, 10, Effective Java, 第三版英文, 5, {material=, size=, surface=, p_name=Effective Java, src_place=中国, id=7, good_id=10, p_id=, com_name=机械工业出版社, shelf_life=很久, p_standard=}, store\good\202208170213150.jpg, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg]
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50035} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@49bf2825]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@49bf2825]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@49bf2825]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1514683]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]==>  Preparing: select id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref from t_deal_evidence where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]==> Parameters: 150(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} Parameters : [150]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} executed. 1.0809 millis. select
+			 id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref 
+		from t_deal_evidence where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50036} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50036} Header: [id, good_id, good_title, good_type, good_amount, good_param, top_ref, bottom_ref]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50036} Result: [150, 10, Effective Java, 第三版英文, 5, {material=, size=, surface=, p_name=Effective Java, src_place=中国, id=7, good_id=10, p_id=, com_name=机械工业出版社, shelf_life=很久, p_standard=}, store\good\202208170213150.jpg, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg]
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50036} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1514683]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1514683]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1514683]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f578ea8]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getStoreid]==>  Preparing: select store_id from t_good where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20018} created. select store_id from t_good where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getStoreid]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20018} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20018} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20018} executed. 1.1039 millis. select store_id from t_good where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20018, rs-50037} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20018, rs-50037} Header: [store_id]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20018, rs-50037} Result: [15]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getStoreid]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20018, rs-50037} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20018} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f578ea8]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f578ea8]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f578ea8]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@33f25615]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.CashierDAO.getCashierByBothId]==>  Preparing: select id,user_id,store_id,staged_money,finished_money from t_cashier where user_id=? and store_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20019} created. select 
+			 id,user_id,store_id,staged_money,finished_money 
+		from t_cashier where user_id=? and store_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.CashierDAO.getCashierByBothId]==> Parameters: 149(Long), 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20019} Parameters : [149, 15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20019} Types : [BIGINT, BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20019} executed. 2.6745 millis. select 
+			 id,user_id,store_id,staged_money,finished_money 
+		from t_cashier where user_id=? and store_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20019, rs-50038} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20019, rs-50038} Header: [id, user_id, store_id, staged_money, finished_money]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20019, rs-50038} Result: [6, 149, 15, 57.5, 0.0]
+[DEBUG][22-08-17][com.cys.boot.dao.CashierDAO.getCashierByBothId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20019, rs-50038} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20019} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@33f25615]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@33f25615]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@33f25615]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit false
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b816dd0]
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.CashierDAO.updateCashier]==>  Preparing: update t_cashier set staged_money=?, finished_money=? where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20020} created. update t_cashier set staged_money=?,
+			finished_money=? where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.CashierDAO.updateCashier]==> Parameters: 288.0(Float), 0.0(Float), 6(Long)
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b816dd0]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b816dd0]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20020} batch executed. 1.4105 millis. update t_cashier set staged_money=?,
+			finished_money=? where id=?
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20020} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b816dd0]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b816dd0]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} commited
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit true
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@195ee00]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.getOrderform]==>  Preparing: select id,user_id,de_id,address,postage,shipping_insurance,coupon,note,invoice,orderform_number,final_money,deal_point,pay_number,create_time,pay_time,send_time,end_time,orderform_status from t_orderform where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.getOrderform]==> Parameters: 87(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} Parameters : [87]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} executed. 0.9608 millis. select 
+			 id,user_id,de_id,address,postage,shipping_insurance,coupon,note,invoice,orderform_number,final_money,deal_point,pay_number,create_time,pay_time,send_time,end_time,orderform_status 
+		from t_orderform where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50039} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50039} Header: [id, user_id, de_id, address, postage, shipping_insurance, coupon, note, invoice, orderform_number, final_money, deal_point, pay_number, create_time, pay_time, send_time, end_time, orderform_status]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50039} Result: [87, 149, 150, 8, 8.0, 1, 5, 无备注, 0, 2208171771379193329, 230.5, 223, 2208678570979559055162538, 2022-08-17 18:40:59.0, 2022-08-17 18:44:25.0, 1970-01-01 08:00:01.0, 1970-01-01 08:00:01.0, 1]
+[DEBUG][22-08-17][com.cys.boot.dao.OrderformDAO.getOrderform]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20015, rs-50039} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20015} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@195ee00]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@195ee00]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@195ee00]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2d69ce15]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]==>  Preparing: select id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref from t_deal_evidence where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]==> Parameters: 150(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} Parameters : [150]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} executed. 0.8609 millis. select
+			 id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref 
+		from t_deal_evidence where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50040} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50040} Header: [id, good_id, good_title, good_type, good_amount, good_param, top_ref, bottom_ref]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50040} Result: [150, 10, Effective Java, 第三版英文, 5, {material=, size=, surface=, p_name=Effective Java, src_place=中国, id=7, good_id=10, p_id=, com_name=机械工业出版社, shelf_life=很久, p_standard=}, store\good\202208170213150.jpg, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg]
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50040} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2d69ce15]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2d69ce15]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2d69ce15]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2029fdd]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]==>  Preparing: select id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref from t_deal_evidence where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]==> Parameters: 150(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} Parameters : [150]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} executed. 0.9316 millis. select
+			 id,good_id,good_title,good_type,good_amount,good_param,top_ref,bottom_ref 
+		from t_deal_evidence where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50041} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50041} Header: [id, good_id, good_title, good_type, good_amount, good_param, top_ref, bottom_ref]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50041} Result: [150, 10, Effective Java, 第三版英文, 5, {material=, size=, surface=, p_name=Effective Java, src_place=中国, id=7, good_id=10, p_id=, com_name=机械工业出版社, shelf_life=很久, p_standard=}, store\good\202208170213150.jpg, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg]
+[DEBUG][22-08-17][com.cys.boot.dao.DealEvidenceDAO.getDealEvidence]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20016, rs-50041} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20016} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2029fdd]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2029fdd]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2029fdd]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6cbe29f0]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getStoreid]==>  Preparing: select store_id from t_good where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getStoreid]==> Parameters: 10(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20018} Parameters : [10]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20018} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20018} executed. 0.6761 millis. select store_id from t_good where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20018, rs-50042} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20018, rs-50042} Header: [store_id]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20018, rs-50042} Result: [15]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getStoreid]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20018, rs-50042} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20018} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6cbe29f0]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6cbe29f0]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6cbe29f0]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3f0f051]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddress]==>  Preparing: select id,user_id,who,phone_number,address,address_detail,flag from t_address where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddress]==> Parameters: 8(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} Parameters : [8]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} executed. 0.7435 millis. select 
+			 id,user_id,who,phone_number,address,address_detail,flag 
+		from t_address where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50043} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50043} Header: [id, user_id, who, phone_number, address, address_detail, flag]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50043} Result: [8, 149, 陈永胜, 18295520108, 宁夏石嘴山市惠农区, 小镇, 1]
+[DEBUG][22-08-17][com.cys.boot.dao.AddressDAO.getAddress]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20011, rs-50043} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20011} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3f0f051]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3f0f051]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3f0f051]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4e4af48a]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==>  Preparing: select id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time from t_store where id=? 
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} executed. 0.659 millis. select
+			 id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time 
+		from t_store where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50044} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50044} Header: [id, seller_id, store_name, lv, good_score, service_score, shipping_score, classes, sale_activityid, fans, register_time]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50044} Result: [15, 7, 陈永胜的总店, 1, 4.5, 4.5, 4.5, 球拍&&球鞋&&球服, 0, 0, 2022-08-17 02:11:57.0]
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20004, rs-50044} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20004} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4e4af48a]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4e4af48a]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4e4af48a]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6ae2c108]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.ChatStoUDAO.getChatStoUs]==>  Preparing: select id,store_id,user_id,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,r12 from t_stou_chat where store_id=? and user_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20021} created. select 
+			 id,store_id,user_id,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,r12 
+		from t_stou_chat where  store_id=? and user_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.ChatStoUDAO.getChatStoUs]==> Parameters: 15(Long), 149(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20021} Parameters : [15, 149]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20021} Types : [BIGINT, BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20021} executed. 1.6579 millis. select 
+			 id,store_id,user_id,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,r12 
+		from t_stou_chat where  store_id=? and user_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20021, rs-50045} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20021, rs-50045} Header: [id, store_id, user_id, r1, r2, r3, r4, r5, r6, r7, r8, r9, r10, r11, r12]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20021, rs-50045} Result: [10, 15, 149, t[[亲，请核对订单信息~~]]tr[[store\good\202208170213150.jpg]]rt[[Effective Java共1件宝贝，合计￥57.5
+姓名：陈永胜
+电话：18295520108
+地址：宁夏石嘴山市惠农区]]td[[2022-08-17 02:15:14rf[[0df[[0, , , , , , , , , , , ]
+[DEBUG][22-08-17][com.cys.boot.dao.ChatStoUDAO.getChatStoUs]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20021, rs-50045} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20021} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6ae2c108]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6ae2c108]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6ae2c108]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit false
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1f28b5c0]
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.ChatStoUDAO.updateChatStoU]==>  Preparing: update t_stou_chat SET r2=? where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20022} created. update t_stou_chat
+		 SET r2=? 
+		where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.ChatStoUDAO.updateChatStoU]==> Parameters: t[[亲，请核对订单信息~~]]tr[[store\good\202208170213150.jpg]]rt[[Effective Java共5件宝贝，合计￥230.5
+姓名：陈永胜
+电话：18295520108
+地址：宁夏石嘴山市惠农区]]td[[2022-08-17 06:44:25rf[[0df[[0(String), 10(Long)
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1f28b5c0]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1f28b5c0]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20022} batch executed. 1.2657 millis. update t_stou_chat
+		 SET r2=? 
+		where id=?
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20022} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20001} closed
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1f28b5c0]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1f28b5c0]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} commited
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit true
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e0c3012]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.ChatUrcvSDAO.getChatUrcvSs]==>  Preparing: select id,user_id,store_id,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,r12 from t_urcvs_chat where user_id=? and store_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20023} created. select 
+			 id,user_id,store_id,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,r12 
+		from t_urcvs_chat where user_id=? and store_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.ChatUrcvSDAO.getChatUrcvSs]==> Parameters: 149(Long), 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20023} Parameters : [149, 15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20023} Types : [BIGINT, BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20023} executed. 1.8605 millis. select 
+			 id,user_id,store_id,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,r12 
+		from t_urcvs_chat where user_id=? and store_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20023, rs-50046} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20023, rs-50046} Header: [id, user_id, store_id, r1, r2, r3, r4, r5, r6, r7, r8, r9, r10, r11, r12]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20023, rs-50046} Result: [12, 149, 15, t[[亲，请核对订单信息~~]]tr[[store\good\202208170213150.jpg]]rt[[Effective Java共1件宝贝，合计￥57.5
+姓名：陈永胜
+电话：18295520108
+地址：宁夏石嘴山市惠农区]]td[[2022-08-17 02:15:14rf[[0df[[0, , , , , , , , , , , ]
+[DEBUG][22-08-17][com.cys.boot.dao.ChatUrcvSDAO.getChatUrcvSs]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20023, rs-50046} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20023} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20000} closed
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e0c3012]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e0c3012]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e0c3012]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit false
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@53bb8556]
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.ChatUrcvSDAO.updateChatUrcvS]==>  Preparing: update t_urcvs_chat SET r2=? where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20024} created. update t_urcvs_chat
+		 SET r2=? 
+		where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.ChatUrcvSDAO.updateChatUrcvS]==> Parameters: t[[亲，请核对订单信息~~]]tr[[store\good\202208170213150.jpg]]rt[[Effective Java共5件宝贝，合计￥230.5
+姓名：陈永胜
+电话：18295520108
+地址：宁夏石嘴山市惠农区]]td[[2022-08-17 06:44:25rf[[0df[[0(String), 12(Long)
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@53bb8556]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@53bb8556]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20024} batch executed. 1.5496 millis. update t_urcvs_chat
+		 SET r2=? 
+		where id=?
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20024} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20002} closed
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@53bb8556]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@53bb8556]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} commited
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} setAutoCommit true
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1d1e981f]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@59ad09a3]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartDAO.getShoppingCart]==>  Preparing: select * from t_shoppingcart where user_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20025} created. select * from t_shoppingcart where user_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartDAO.getShoppingCart]==> Parameters: 149(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20025} Parameters : [149]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20025} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20025} executed. 5.5667 millis. select * from t_shoppingcart where user_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20025, rs-50047} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20025, rs-50047} Header: [id, user_id]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20025, rs-50047} Result: [47, 149]
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartDAO.getShoppingCart]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7f21e625] will be managed by Spring
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20025, rs-50047} closed
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getAllGood]==>  Preparing: select id,store_id,top_ref,title,price,sale_amount from t_good 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20025} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20007} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20026} created. select  id,store_id,top_ref,title,price,sale_amount 
+		 from t_good
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1d1e981f]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1d1e981f]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1d1e981f]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getAllGood]==> Parameters: 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20026} Parameters : []
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20026} Types : []
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2fa8fb7d]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7ca64a58] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartItemDAO.getShoppingCartItemByShoppingCartId]==>  Preparing: select id,shoppingcart_id,good_id,good_name,amount,price,typ from t_shoppingcart_item where shoppingcart_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20027} created. select 
+			 id,shoppingcart_id,good_id,good_name,amount,price,typ 
+		from t_shoppingcart_item where shoppingcart_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartItemDAO.getShoppingCartItemByShoppingCartId]==> Parameters: 47(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20027} Parameters : [47]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20027} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20026} executed. 2.0381 millis. select  id,store_id,top_ref,title,price,sale_amount 
+		 from t_good
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20026, rs-50048} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20026, rs-50048} Header: [id, store_id, top_ref, title, price, sale_amount]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20026, rs-50048} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 49.5, 0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getAllGood]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20026, rs-50048} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20026} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@59ad09a3]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@59ad09a3]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@59ad09a3]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} pool-recycle
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@716d7ff2]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7f21e625] will be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==>  Preparing: select id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time from t_store where id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20028} created. select
+			 id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time 
+		from t_store where id=?
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20028} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20028} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20027} executed. 5.0459 millis. select 
+			 id,shoppingcart_id,good_id,good_name,amount,price,typ 
+		from t_shoppingcart_item where shoppingcart_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20027, rs-50049} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20027, rs-50049} Header: [id, shoppingcart_id, good_id, good_name, amount, price, typ]
+[DEBUG][22-08-17][com.cys.boot.dao.ShoppingCartItemDAO.getShoppingCartItemByShoppingCartId]<==      Total: 0
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10005, pstmt-20027, rs-50049} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20027} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10005, pstmt-20012} closed
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2fa8fb7d]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2fa8fb7d]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2fa8fb7d]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10005} pool-recycle
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20028} executed. 5.5311 millis. select
+			 id,seller_id,store_name,lv,good_score,service_score,shipping_score,classes,sale_activityid,fans,register_time 
+		from t_store where id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20028, rs-50050} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20028, rs-50050} Header: [id, seller_id, store_name, lv, good_score, service_score, shipping_score, classes, sale_activityid, fans, register_time]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20028, rs-50050} Result: [15, 7, 陈永胜的总店, 1, 4.5, 4.5, 4.5, 球拍&&球鞋&&球服, 0, 0, 2022-08-17 02:11:57.0]
+[DEBUG][22-08-17][com.cys.boot.dao.StoreDAO.getStore]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20028, rs-50050} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20028} clearParameters. 
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@716d7ff2]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@716d7ff2]
+[DEBUG][22-08-17][org.mybatis.spring.SqlSessionUtils]Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@716d7ff2]
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} pool-recycle
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} pool-connect
+[DEBUG][22-08-17][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@7f21e625] will not be managed by Spring
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]==>  Preparing: select id,store_id,top_ref,title,price,sale_amount from t_good where store_id=? 
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20029} created. select 
+			 id,store_id,top_ref,title,price,sale_amount 
+		from t_good where store_id=?
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]==> Parameters: 15(Long)
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20029} Parameters : [15]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20029} Types : [BIGINT]
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20029} executed. 1.4314 millis. select 
+			 id,store_id,top_ref,title,price,sale_amount 
+		from t_good where store_id=?
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20029, rs-50051} open
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20029, rs-50051} Header: [id, store_id, top_ref, title, price, sale_amount]
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20029, rs-50051} Result: [10, 15, store\good\202208170213150.jpg&&store\good\202208170213151.jpg&&store\good\202208170213152.jpg&&store\good\202208170213153.jpg&&store\good\202208170213154.jpg&&store\good\202208170213155.jpg, Effective Java, 49.5, 0]
+[DEBUG][22-08-17][com.cys.boot.dao.GoodDAO.getGoodByStoreId]<==      Total: 1
+[DEBUG][22-08-17][druid.sql.ResultSet]{conn-10004, pstmt-20029, rs-50051} closed
+[DEBUG][22-08-17][druid.sql.Statement]{conn-10004, pstmt-20029} clearParameters. 
+[DEBUG][22-08-17][druid.sql.Connection]{conn-10004} pool-recycle

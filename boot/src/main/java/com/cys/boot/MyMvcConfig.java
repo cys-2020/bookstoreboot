@@ -1,4 +1,5 @@
-package com.cys.boot;
+/*if u want to config your better mvc
+ * package com.cys.boot;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
@@ -12,4 +13,4 @@ public class MyMvcConfig implements WebMvcConfigurer {
     	
     }
 
-}
+}*/

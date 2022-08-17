@@ -1,4 +1,4 @@
-package com.cys.boot;
+/*package com.cys.boot;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
@@ -11,4 +11,4 @@ public class MyServletInitializer extends SpringBootServletInitializer {
 		return builder.sources(Application.class);
 	}
 	
-}
+}*/
